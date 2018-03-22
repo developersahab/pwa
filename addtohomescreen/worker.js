@@ -8,9 +8,9 @@ self.addEventListener('install', function(e) {
        '/pwa/addtohomescreen/icons/favicon.ico',
        '/pwa/addtohomescreen/icons/icon-36x36.png',
        '/pwa/addtohomescreen/icons/icon-48x48.png',
-       '/pwa/addtohomescreen/icons/icon-72x72.png'
-       '/pwa/addtohomescreen/icons/icon-96x96.png'
-       '/pwa/addtohomescreen/icons/icon-144x144.png'
+       '/pwa/addtohomescreen/icons/icon-72x72.png',
+       '/pwa/addtohomescreen/icons/icon-96x96.png',
+       '/pwa/addtohomescreen/icons/icon-144x144.png',
        '/pwa/addtohomescreen/icons/icon-192x192.png'
      ]);
    })
